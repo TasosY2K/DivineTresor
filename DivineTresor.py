@@ -65,7 +65,7 @@ filenc = tkinter.Button(
     command = filecrypt,
 ).pack()
 filedec = tkinter.Button(
-    text="Decrypt a files",
+    text="Decrypt files",
     width=15,
     height=1,
     bg="white",
